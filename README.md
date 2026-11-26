@@ -1,11 +1,5 @@
 # LiberaAI
 
-![Python](https://img.shields.io/badge/Python-3.12-blue)
-![FastAPI](https://img.shields.io/badge/Backend-FastAPI-009688)
-![Gradio](https://img.shields.io/badge/Interface-Gradio-orange)
-![GenAI](https://img.shields.io/badge/GenAI-LFM2.5-purple)
-![Status](https://img.shields.io/badge/Status-Em%20validação-yellow)
-
 O **LiberaAI** é um projeto acadêmico desenvolvido em equipe para a disciplina de **GenAI**, voltado à transparência legislativa brasileira e alinhado à Meta 16.6 dos Objetivos de Desenvolvimento Sustentável (ODS) da ONU.
 
 Seu objetivo é permitir que qualquer cidadão encontre propostas legislativas, acompanhe sua tramitação e compreenda seu conteúdo em linguagem simples, sem precisar dominar termos jurídicos ou conhecer previamente o número de uma proposição.
