@@ -1,0 +1,26 @@
+[project]
+name = "liberaai"
+version = "0.1.0"
+description = "Backend acadêmico de transparência legislativa."
+requires-python = ">=3.12,<3.13"
+dependencies = [
+    "fastapi",
+    "gradio>=6.32.0",
+    "httpx",
+    "pydantic>=2",
+    "pymupdf>=1.26,<2",
+    "uvicorn",
+]
+
+[dependency-groups]
+dev = ["pytest", "ipykernel"]
+
+[tool.uv]
+package = false
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-m 'not live'"
+markers = ["live: consultas reais à Câmara dos Deputados"]
+python_files = ["teste_*.py", "test_*.py", "*_test.py"]
+python_functions = ["teste*", "test*"]

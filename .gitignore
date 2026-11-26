@@ -1,0 +1,29 @@
+# Ambiente virtual
+.venv/
+venv/
+
+# Configurações privadas
+.env
+.env.*
+!.env.example
+
+# Cache do Python
+__pycache__/
+*.pyc
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Modelos de inteligência artificial
+*.gguf
+*.safetensors
+
+# Executáveis e bibliotecas
+*.exe
+*.dll
+
+# Logs
+*.log
+
+# Ferramentas de desenvolvimento
+.vscode/
+.idea/

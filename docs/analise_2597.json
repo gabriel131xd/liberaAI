@@ -1,0 +1,169 @@
+{
+  "proposicao_oficial": {
+    "id": 253500,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/253500",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 2597,
+    "ano": 2024,
+    "ementa": "Estabelece normas gerais em contratos de seguro privado e revoga dispositivos do Código Civil, do Código Comercial Brasileiro e do Decreto-Lei nº 73 de 1966.",
+    "dataApresentacao": "2004-05-13T14:41",
+    "uriOrgaoNumerador": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2008",
+    "statusProposicao": {
+      "dataHora": "2024-12-17T00:00",
+      "sequencia": 397,
+      "siglaOrgao": "MESA",
+      "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/4",
+      "uriUltimoRelator": "https://dadosabertos.camara.leg.br/api/v2/deputados/74161",
+      "regime": "Urgência (Art. 155, RICD)",
+      "descricaoTramitacao": "Apresentação de Proposição",
+      "codTipoTramitacao": "100",
+      "descricaoSituacao": "Transformado em Norma Jurídica",
+      "codSituacao": 1140,
+      "despacho": "Remessa do Ofício nº 647/2024/PS-GSE ao Senado Federal, informando restituição de autógrafo sancionado.",
+      "url": null,
+      "ambito": "Regimental",
+      "apreciacao": "Proposição Sujeita à Apreciação do Plenário"
+    },
+    "uriAutores": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/253500/autores",
+    "descricaoTipo": "Projeto de Lei",
+    "ementaDetalhada": "Revoga dispositivos das Leis nºs 556, de 1850 e 10.406, de 2002.",
+    "keywords": "Normas, contratação, seguro privado, exceção, plano de saúde, exigência, sociedade seguradora, autorização, Superintendência de Seguros Privados (Susep). contrato, seguro, interesse, ineficácia, responsabilidade, riscos, nulidade, garantia, pagamento, prêmio, favorecimento, terceiros, co-seguro, cumulatividade, apólice de seguro, duração, proposta, requisitos, aceitação, prova, documentação, título executivo extrajudicial, interpretação, resseguro, sinistro, atividade de regulação, liquidação, competência, corretor de seguros.  \r\n_ Pagamento, sociedade seguradora, danos, responsabilidade civil, transferência, cessão, interesse, segurado, seguro de vida, indicação, beneficiário, prazo, carência, nulidade, seguro obrigatório, regulamentação, Conselho Nacional de Seguros Privados (CNSP), prescrição, decadência.  \r\n_ Obrigatoriedade, redação, língua portuguesa, contrato, seguros, inclusão, glossário, termo, técnico, ação judicial, revogação, dispositivos, Código Civil, Código Comercial, Lei do Seguro Privado.",
+    "uriPropPrincipal": null,
+    "uriPropAnterior": null,
+    "uriPropPosterior": null,
+    "urlInteiroTeor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=1279376",
+    "urnFinal": null,
+    "texto": null,
+    "justificativa": null
+  },
+  "documento": {
+    "identificacao": "EMS 2597/2024 · ID 2443615",
+    "url": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2443176",
+    "dados_peca": {
+      "id": 2443615,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2443615",
+      "siglaTipo": "EMS",
+      "codTipo": 132,
+      "numero": 2597,
+      "ano": 2024,
+      "ementa": "Substitutivo do Senado ao Projeto de Lei da Câmara nº 29, de 2017 (nº 3.555, de 2004, na Casa de origem), que “Dispõe sobre normas de seguro privado; revoga dispositivos da Lei nº 10.406, de 10 de janeiro de 2002 (Código Civil); e dá outras providências”.\n\n\nSubstitua-se o Projeto pelo seguinte:\n\n\nDispõe sobre normas de seguro privado.",
+      "dataApresentacao": "2024-06-26T18:54",
+      "uriOrgaoNumerador": null,
+      "statusProposicao": {
+        "dataHora": "2024-06-26T18:54",
+        "sequencia": 1,
+        "siglaOrgao": "MESA",
+        "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/4",
+        "uriUltimoRelator": null,
+        "regime": ".",
+        "descricaoTramitacao": "Apresentação de Proposição",
+        "codTipoTramitacao": "100",
+        "descricaoSituacao": null,
+        "codSituacao": null,
+        "despacho": "Apresentação do PL n. 2597/2024 (Projeto de Lei), pelo Senado Federal, que \"Substitutivo do Senado ao Projeto de Lei da Câmara nº 29, de 2017 (nº 3.555, de 2004, na Casa de origem), que “Dispõe sobre normas de seguro privado; revoga dispositivos da Lei nº 10.406, de 10 de janeiro de 2002 (Código Civil); e dá outras providências”.Substitua-se o Projeto pelo seguinte:Dispõe sobre normas de seguro privado\".",
+        "url": null,
+        "ambito": "Regimental",
+        "apreciacao": "Proposição Sujeita à Apreciação do Plenário"
+      },
+      "uriAutores": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2443615/autores",
+      "descricaoTipo": "Emenda/Substitutivo do Senado",
+      "ementaDetalhada": "",
+      "keywords": "Marco regulatório, Seguro privado, regulação, Mercado de seguros, proibição, seguradora, Rescisão unilateral, contrato, avaliação, riscos (segurança), segurado, jurisdição, litígio, resseguro, Cosseguro, sinistro, prêmio de seguro, Prazo prescricional, segurança jurídica, segurança jurídica, Seguro individual, Seguro coletivo. _ Alteração, Código Civil (2002), Lei do Seguro Privado (1966), revogação, dispositivo legal, contrato, Seguro Privado.",
+      "uriPropPrincipal": null,
+      "uriPropAnterior": null,
+      "uriPropPosterior": null,
+      "urlInteiroTeor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2443176",
+      "urnFinal": null,
+      "texto": null,
+      "justificativa": null
+    },
+    "exige_recorte": false,
+    "versao": "identificação da peça; vigência não inferida",
+    "sha256": "4274b9db3f6a105942db2d87477d53585b82a0a8737207a63456921156ff555a",
+    "destino": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2443176",
+    "paginas": 24,
+    "situacao": "texto extraído; fidelidade requer conferência",
+    "avisos": []
+  },
+  "recorte": [
+    1,
+    1
+  ],
+  "limitacoes": [
+    "Recorte parcial: dispositivos podem continuar fora do intervalo."
+  ],
+  "paginas_fora_do_recorte": [
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24
+  ],
+  "geracoes": [
+    {
+      "etapa": "parte",
+      "secao": "Substitutivo do Senado, primeira página",
+      "paginas": [
+        1
+      ],
+      "tokens_template": 759,
+      "resposta": "A proposta substitui a Lei Complementar nº 126/2007, aplicando-se exclusivamente contratos de seguro celebrados por seguradoras autorizadas no Brasil (EMS n° 2597/2024). A cessão parcial ou total de carteira exige autorização da autoridade fiscalizadora. Se a cessionária for insolvente, a cedente permanece solidariamente responsável até 24 meses após a cessão (p. 1, §2º). O contrato é regido pela lei brasileira e não por disposições gerais de outros códigos (exceto o art. 20 da Lei Complementar nº 126/2007 para contratos com seguradoras autorizadas no Brasil) (p. 1, §1º). A responsabilidade solidária da cedente persiste se a cessionária for insolvente no período de vigência ou nos 24 meses seguintes à cessão (p. 1, §2º).",
+      "uso": {
+        "completion_tokens": 301,
+        "prompt_tokens": 759,
+        "total_tokens": 1060,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        }
+      },
+      "tempos": {
+        "cache_n": 0,
+        "prompt_n": 759,
+        "prompt_ms": 16753.846,
+        "prompt_per_token_ms": 22.073578392621872,
+        "prompt_per_second": 45.303030719036094,
+        "predicted_n": 301,
+        "predicted_ms": 35154.055,
+        "predicted_per_token_ms": 117.18018333333333,
+        "predicted_per_second": 8.533866150007446
+      },
+      "segundos": 108.343
+    }
+  ],
+  "explicacoes": [
+    {
+      "secao": "Substitutivo do Senado, primeira página",
+      "paginas": [
+        1
+      ],
+      "texto": "A proposta substitui a Lei Complementar nº 126/2007, aplicando-se exclusivamente contratos de seguro celebrados por seguradoras autorizadas no Brasil (EMS n° 2597/2024). A cessão parcial ou total de carteira exige autorização da autoridade fiscalizadora. Se a cessionária for insolvente, a cedente permanece solidariamente responsável até 24 meses após a cessão (p. 1, §2º). O contrato é regido pela lei brasileira e não por disposições gerais de outros códigos (exceto o art. 20 da Lei Complementar nº 126/2007 para contratos com seguradoras autorizadas no Brasil) (p. 1, §1º). A responsabilidade solidária da cedente persiste se a cessionária for insolvente no período de vigência ou nos 24 meses seguintes à cessão (p. 1, §2º)."
+    }
+  ],
+  "situacao": "concluída no recorte",
+  "modelo": "C:\\Users\\xxgab\\Downloads\\LFM2.5-2.6B.Q4_K_M.gguf",
+  "contexto": 4096,
+  "reserva_saida": 1024,
+  "margem": 8,
+  "segundos": 108.39,
+  "partes_concluidas": 1,
+  "cobertura_extracao": "camada textual do recorte; fidelidade sujeita a revisão"
+}

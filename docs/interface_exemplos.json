@@ -1,0 +1,54 @@
+{
+  "explicacao": {
+    "resumo": "Redação final da Câmara · páginas [1, 2]\nA Lei nº 2.613‑A de 2007 altera a Lei nº 10.741/2003 (Estatuto da Pessoa Idosa) para regular instituições de longa permanência. O art. 1º estabelece que as instituições podem adquirir equipamentos e medicamentos para saúde dos residentes. O § 8º do art. 15 permite isso. O art. 48, parágrafo único, obriga a oferecer instalações adequadas de habitabilidade, higiene, segurança e acessibilidade conforme a Lei nº 13.146/2015 (Estatuto da Pessoa com Deficiência). O art. 50 exige pelo menos um funcionário capacitado para Libras. O art. 19 prevê câmeras de vigilância em áreas comuns. A lei entra em vigor após 180 dias da publicação oficial, conforme o art. 3º. Revoga-se o parágrafo único do art. 4º da Lei nº 8.842/1994. (NR) – Deputada Nely Aquino, relatora.",
+    "respostas": "parte · Redação final da Câmara · páginas [1, 2]\nA Lei nº 2.613‑A de 2007 altera a Lei nº 10.741/2003 (Estatuto da Pessoa Idosa) para regular instituições de longa permanência. O art. 1º estabelece que as instituições podem adquirir equipamentos e medicamentos para saúde dos residentes. O § 8º do art. 15 permite isso. O art. 48, parágrafo único, obriga a oferecer instalações adequadas de habitabilidade, higiene, segurança e acessibilidade conforme a Lei nº 13.146/2015 (Estatuto da Pessoa com Deficiência). O art. 50 exige pelo menos um funcionário capacitado para Libras. O art. 19 prevê câmeras de vigilância em áreas comuns. A lei entra em vigor após 180 dias da publicação oficial, conforme o art. 3º. Revoga-se o parágrafo único do art. 4º da Lei nº 8.842/1994. (NR) – Deputada Nely Aquino, relatora.",
+    "metadados": "RDF 1/0 · ID 2418402 · identificação da peça; vigência não inferida\nFonte: https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2388635\nSituação da geração: concluída no recorte · 45.906 s\nPáginas com alguma geração concluída: [1, 2]\nCobertura: camada textual do recorte; fidelidade sujeita a revisão"
+  },
+  "chat": {
+    "id": 253500,
+    "fonte": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2443176",
+    "pagina": 1,
+    "mensagens": [
+      {
+        "role": "user",
+        "content": "Em que condições a cedente continua responsável se a cessionária ficar insolvente?"
+      },
+      {
+        "role": "assistant",
+        "content": "A proposta EMS 2597/2024 é um Substitutivo do Senado ao Projeto de Lei da Câmara nº 29/2017, que dispõe sobre normas de seguro privado e revoga dispositivos da Lei nº 10.406/2002 (Código Civil). A lei vigente estabelece que a seguradora cessionária assume responsabilidade solidariamente com a cedente se esta cessar sua posição contratual sem autorização prévia dos segurados, ou sem autorização específica da autoridade fiscalizadora (§ 3º). O § 2º do substituto determina que a cessão de carteira mantém a cedente solidária perante a cessionária caso esta se torne insolvente no período de vigência do seguro ou em até 24 meses, o que for menor. A proposta não contém dados adicionais sobre justificativas específicas além da estrutura legal apresentada."
+      }
+    ]
+  },
+  "chat_reteste": {
+    "id": 253500,
+    "fonte": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2443176",
+    "pagina": 1,
+    "mensagens": [
+      {
+        "role": "user",
+        "content": "Em que condições a cedente continua responsável se a cessionária ficar insolvente?"
+      },
+      {
+        "role": "assistant",
+        "content": "A peça EMS 2597/2024 foi transformada em Norma Jurídica, substituindo o Projeto de Lei da Câmara nº 29/2017. A situação oficial não comprova a vigência do texto desta peça, e a análise auxiliar indica que a cessão parcial ou total de carteira por iniciativa da seguradora deve ser autorizada pela autoridade fiscalizadora. O § 2º estabelece que a cessão de carteira mantém a cedente solidária perante o cedido, caso a cessionária se torne insolvente no período de vigência do seguro ou no prazo de 24 meses, contado da cessão, o que for menor."
+      }
+    ],
+    "segundos": 45.62
+  },
+  "chat_atual": {
+    "id": 253500,
+    "fonte": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2443176",
+    "pagina": 1,
+    "mensagens": [
+      {
+        "role": "user",
+        "content": "Em que condições a cedente continua responsável se a cessionária ficar insolvente?"
+      },
+      {
+        "role": "assistant",
+        "content": "A peça selecionada é o Substitutivo do Senado ao Projeto de Lei da Câmara nº 29/2017 (nº 3.555, de 2004), que dispõe sobre normas de seguro privado e revoga dispositivos da Lei nº 10.406/2002. A cessionária permanece solidariamente responsável com a seguradora cessionária se esta ficar insolvente no período de vigência do seguro ou em um prazo de 24 meses, contado da cessão da carteira, o que for menor (Art. 3º, § 2º). Na peça selecionada, a responsabilidade solidária da cedente continua mesmo quando a cessionária se torna insolvente, desde que o evento ocorra no período de vigência ou nos 24 meses seguintes à cessão (página 1)."
+      }
+    ],
+    "segundos": 49.7
+  }
+}

@@ -1,0 +1,167 @@
+{
+  "proposicao_oficial": {
+    "id": 2434493,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2434493",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 1904,
+    "ano": 2024,
+    "ementa": "Acresce dois parágrafos ao art. 124, um parágrafo único ao artigo 125, um segundo parágrafo ao artigo 126 e um parágrafo único ao artigo 128, todos do Código Penal Brasileiro, e dá outras providências.",
+    "dataApresentacao": "2024-05-17T09:58",
+    "uriOrgaoNumerador": "https://dadosabertos.camara.leg.br/api/v2/orgaos/4",
+    "statusProposicao": {
+      "dataHora": "2024-08-14T14:00",
+      "sequencia": 25,
+      "siglaOrgao": "CPASF",
+      "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/539387",
+      "uriUltimoRelator": null,
+      "regime": "Urgência (Art. 155, RICD)",
+      "descricaoTramitacao": "Aprovação de Requerimento",
+      "codTipoTramitacao": "195",
+      "descricaoSituacao": "Aguardando Despacho do Presidente da Câmara dos Deputados (Chancela)",
+      "codSituacao": 1201,
+      "despacho": "Aprovado o requerimento nº 44/2024,da Sra. Chris Tonietto que requer a realização de Audiência Pública para debater sobre o PL 1904/2024, que acresce dois parágrafos ao art. 124, um parágrafo único ao artigo 125, um segundo parágrafo ao artigo 126 e um parágrafo único ao artigo 128, todos do Código Penal Brasileiro, e dá outras providências.",
+      "url": null,
+      "ambito": "Regimental",
+      "apreciacao": "Proposição Sujeita à Apreciação do Plenário"
+    },
+    "uriAutores": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2434493/autores",
+    "descricaoTipo": "Projeto de Lei",
+    "ementaDetalhada": "Altera o Decreto-Lei nº 2.848, de 7 de Dezembro de 1940.",
+    "keywords": "Alteração, Código Penal (1940), crime contra a vida, critério, aplicação, penalidade, aborto provocado, aborto legal, estupro, mulher, gestante, idade gestacional.",
+    "uriPropPrincipal": null,
+    "uriPropAnterior": null,
+    "uriPropPosterior": null,
+    "urlInteiroTeor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2425262",
+    "urnFinal": null,
+    "texto": null,
+    "justificativa": null
+  },
+  "documento": {
+    "identificacao": "PL 1904/2024 · ID 2434493",
+    "url": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2425262",
+    "dados_peca": {
+      "id": 2434493,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2434493",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 1904,
+      "ano": 2024,
+      "ementa": "Acresce dois parágrafos ao art. 124, um parágrafo único ao artigo 125, um segundo parágrafo ao artigo 126 e um parágrafo único ao artigo 128, todos do Código Penal Brasileiro, e dá outras providências.",
+      "dataApresentacao": "2024-05-17T09:58",
+      "uriOrgaoNumerador": "https://dadosabertos.camara.leg.br/api/v2/orgaos/4",
+      "statusProposicao": {
+        "dataHora": "2024-08-14T14:00",
+        "sequencia": 25,
+        "siglaOrgao": "CPASF",
+        "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/539387",
+        "uriUltimoRelator": null,
+        "regime": "Urgência (Art. 155, RICD)",
+        "descricaoTramitacao": "Aprovação de Requerimento",
+        "codTipoTramitacao": "195",
+        "descricaoSituacao": "Aguardando Despacho do Presidente da Câmara dos Deputados (Chancela)",
+        "codSituacao": 1201,
+        "despacho": "Aprovado o requerimento nº 44/2024,da Sra. Chris Tonietto que requer a realização de Audiência Pública para debater sobre o PL 1904/2024, que acresce dois parágrafos ao art. 124, um parágrafo único ao artigo 125, um segundo parágrafo ao artigo 126 e um parágrafo único ao artigo 128, todos do Código Penal Brasileiro, e dá outras providências.",
+        "url": null,
+        "ambito": "Regimental",
+        "apreciacao": "Proposição Sujeita à Apreciação do Plenário"
+      },
+      "uriAutores": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2434493/autores",
+      "descricaoTipo": "Projeto de Lei",
+      "ementaDetalhada": "Altera o Decreto-Lei nº 2.848, de 7 de Dezembro de 1940.",
+      "keywords": "Alteração, Código Penal (1940), crime contra a vida, critério, aplicação, penalidade, aborto provocado, aborto legal, estupro, mulher, gestante, idade gestacional.",
+      "uriPropPrincipal": null,
+      "uriPropAnterior": null,
+      "uriPropPosterior": null,
+      "urlInteiroTeor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2425262",
+      "urnFinal": null,
+      "texto": null,
+      "justificativa": null
+    },
+    "exige_recorte": false,
+    "versao": "identificação da peça; vigência não inferida",
+    "sha256": "e75e4ddf35f5965cca65ec130047ed4d560cd9bb41878c2d868ef34ff2bcd732",
+    "destino": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2425262",
+    "paginas": 19,
+    "situacao": "texto extraído; fidelidade requer conferência",
+    "avisos": []
+  },
+  "recorte": [
+    10,
+    10
+  ],
+  "limitacoes": [
+    "Recorte parcial: dispositivos podem continuar fora do intervalo."
+  ],
+  "paginas_fora_do_recorte": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19
+  ],
+  "geracoes": [
+    {
+      "etapa": "parte",
+      "secao": "Justificativa do autor com citação do Ministério; atribua cada fala",
+      "paginas": [
+        10
+      ],
+      "tokens_template": 947,
+      "resposta": "O texto é a **Justificativa do Autor** de um projeto de lei (PL 1904/2024) que discute a prática de aborto legal em casos de violência. O autor cita uma recomendação do Ministério Público Federal de Santa Catarina, que exigia o Hospital Universitário de garantir procedimentos de interrupção da gestação em casos de aborto legal, independentemente da idade gestacional e peso fetal, sem necessidade de autorização judicial (págs 10-11). O documento também menciona uma cartilha do Ministério Público de Santa Catarina (junho de 2023) que redefiniu o aborto como \"Interrupção Legal da Gravidez\" sem limites de idade ou peso (página 10). A justificativa aponta que a juíza responsável por um caso similar enfrentou um Processo Administrativo Disciplinar pelo Conselho Nacional de Justiça, alegando violência institucional. O autor defende que a prática de aborto em casos de violência já era comum desde 1989 entre profissionais favoráveis ao aborto, sem represálias. A proposta do PL busca regular essa situação, mas o texto não apresenta alterações específicas; trata-se apenas da justificativa e das citações. **Limitação:** O material original contém apenas a seção de justificativa e referências a documentos externos (Ministério Público, cartilha). Não há disposições legislativas detalhadas no trecho fornecido.",
+      "uso": {
+        "completion_tokens": 408,
+        "prompt_tokens": 947,
+        "total_tokens": 1355,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        }
+      },
+      "tempos": {
+        "cache_n": 0,
+        "prompt_n": 947,
+        "prompt_ms": 18605.538,
+        "prompt_per_token_ms": 19.646819429778247,
+        "prompt_per_second": 50.89882378031745,
+        "predicted_n": 408,
+        "predicted_ms": 51088.285,
+        "predicted_per_token_ms": 125.52404176904177,
+        "predicted_per_second": 7.966601345102894
+      },
+      "segundos": 69.719
+    }
+  ],
+  "explicacoes": [
+    {
+      "secao": "Justificativa do autor com citação do Ministério; atribua cada fala",
+      "paginas": [
+        10
+      ],
+      "texto": "O texto é a **Justificativa do Autor** de um projeto de lei (PL 1904/2024) que discute a prática de aborto legal em casos de violência. O autor cita uma recomendação do Ministério Público Federal de Santa Catarina, que exigia o Hospital Universitário de garantir procedimentos de interrupção da gestação em casos de aborto legal, independentemente da idade gestacional e peso fetal, sem necessidade de autorização judicial (págs 10-11). O documento também menciona uma cartilha do Ministério Público de Santa Catarina (junho de 2023) que redefiniu o aborto como \"Interrupção Legal da Gravidez\" sem limites de idade ou peso (página 10). A justificativa aponta que a juíza responsável por um caso similar enfrentou um Processo Administrativo Disciplinar pelo Conselho Nacional de Justiça, alegando violência institucional. O autor defende que a prática de aborto em casos de violência já era comum desde 1989 entre profissionais favoráveis ao aborto, sem represálias. A proposta do PL busca regular essa situação, mas o texto não apresenta alterações específicas; trata-se apenas da justificativa e das citações. **Limitação:** O material original contém apenas a seção de justificativa e referências a documentos externos (Ministério Público, cartilha). Não há disposições legislativas detalhadas no trecho fornecido."
+    }
+  ],
+  "situacao": "concluída no recorte",
+  "modelo": "C:\\Users\\xxgab\\Downloads\\LFM2.5-2.6B.Q4_K_M.gguf",
+  "contexto": 4096,
+  "reserva_saida": 1024,
+  "margem": 8,
+  "segundos": 69.719,
+  "partes_concluidas": 1,
+  "cobertura_extracao": "camada textual do recorte; fidelidade sujeita a revisão",
+  "paginas_com_geracao_concluida": [
+    10
+  ]
+}

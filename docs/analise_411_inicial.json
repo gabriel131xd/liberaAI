@@ -1,0 +1,144 @@
+{
+  "proposicao_oficial": {
+    "id": 380852,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/380852",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 411,
+    "ano": 2024,
+    "ementa": "Estabelece normas básicas para o funcionamento de estabelecimentos que prestam atendimento integral institucional a idosos como Asilos, Casas de Repouso, Clínicas Geriátricas e congêneres e dá outras providências.\r\n\r\nNOVA EMENTA: Altera a Lei nº 10.741, de 1º de outubro de 2003 (Estatuto da Pessoa Idosa), a fim de dispor sobre as instituições de longa permanência para pessoas idosas; e revoga dispositivo da Lei nº 8.842, de 4 de janeiro de 1994.",
+    "dataApresentacao": "2007-12-12T16:23",
+    "uriOrgaoNumerador": "https://dadosabertos.camara.leg.br/api/v2/orgaos/180",
+    "statusProposicao": {
+      "dataHora": "2024-02-22T03:00",
+      "sequencia": 133,
+      "siglaOrgao": "MESA",
+      "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/4",
+      "uriUltimoRelator": "https://dadosabertos.camara.leg.br/api/v2/deputados/220622",
+      "regime": "Urgência (Art. 155, RICD)",
+      "descricaoTramitacao": "Expedição de Documento",
+      "codTipoTramitacao": "190",
+      "descricaoSituacao": "Aguardando Apreciação pelo Senado Federal",
+      "codSituacao": 926,
+      "despacho": "Remessa ao Senado Federal por meio do Of. nº 8/2024/SGM-P.",
+      "url": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2388155",
+      "ambito": "Regimental",
+      "apreciacao": "Proposição Sujeita à Apreciação Conclusiva pelas Comissões - Art. 24 II"
+    },
+    "uriAutores": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/380852/autores",
+    "descricaoTipo": "Projeto de Lei",
+    "ementaDetalhada": "Consideram-se os estabelecimentos do tipo: República de Idoso, Centro de Convivência, Centro-Dia, Casa-Lar.",
+    "keywords": "Funcionamento, concessão, alvará, instituição assistencial, asilo, clínica, casa-lar,  idoso, exigência, vistoria, aprovação, autoridade sanitária, local, projeto, modalidade, estabelecimento, requisitos, dimensão, construção, bens móveis, banheiro, registro, prontuário, internação, controle, medicamentos, proibição, restrição, visita.",
+    "uriPropPrincipal": null,
+    "uriPropAnterior": null,
+    "uriPropPosterior": null,
+    "urlInteiroTeor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=531477",
+    "urnFinal": null,
+    "texto": null,
+    "justificativa": null
+  },
+  "documento": {
+    "identificacao": "PL 411/2024 · ID 380852",
+    "url": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=531477",
+    "dados_peca": {
+      "id": 380852,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/380852",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 411,
+      "ano": 2024,
+      "ementa": "Estabelece normas básicas para o funcionamento de estabelecimentos que prestam atendimento integral institucional a idosos como Asilos, Casas de Repouso, Clínicas Geriátricas e congêneres e dá outras providências.\r\n\r\nNOVA EMENTA: Altera a Lei nº 10.741, de 1º de outubro de 2003 (Estatuto da Pessoa Idosa), a fim de dispor sobre as instituições de longa permanência para pessoas idosas; e revoga dispositivo da Lei nº 8.842, de 4 de janeiro de 1994.",
+      "dataApresentacao": "2007-12-12T16:23",
+      "uriOrgaoNumerador": "https://dadosabertos.camara.leg.br/api/v2/orgaos/180",
+      "statusProposicao": {
+        "dataHora": "2024-02-22T03:00",
+        "sequencia": 133,
+        "siglaOrgao": "MESA",
+        "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/4",
+        "uriUltimoRelator": "https://dadosabertos.camara.leg.br/api/v2/deputados/220622",
+        "regime": "Urgência (Art. 155, RICD)",
+        "descricaoTramitacao": "Expedição de Documento",
+        "codTipoTramitacao": "190",
+        "descricaoSituacao": "Aguardando Apreciação pelo Senado Federal",
+        "codSituacao": 926,
+        "despacho": "Remessa ao Senado Federal por meio do Of. nº 8/2024/SGM-P.",
+        "url": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2388155",
+        "ambito": "Regimental",
+        "apreciacao": "Proposição Sujeita à Apreciação Conclusiva pelas Comissões - Art. 24 II"
+      },
+      "uriAutores": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/380852/autores",
+      "descricaoTipo": "Projeto de Lei",
+      "ementaDetalhada": "Consideram-se os estabelecimentos do tipo: República de Idoso, Centro de Convivência, Centro-Dia, Casa-Lar.",
+      "keywords": "Funcionamento, concessão, alvará, instituição assistencial, asilo, clínica, casa-lar,  idoso, exigência, vistoria, aprovação, autoridade sanitária, local, projeto, modalidade, estabelecimento, requisitos, dimensão, construção, bens móveis, banheiro, registro, prontuário, internação, controle, medicamentos, proibição, restrição, visita.",
+      "uriPropPrincipal": null,
+      "uriPropAnterior": null,
+      "uriPropPosterior": null,
+      "urlInteiroTeor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=531477",
+      "urnFinal": null,
+      "texto": null,
+      "justificativa": null
+    },
+    "exige_recorte": false,
+    "versao": "identificação da peça; vigência não inferida",
+    "sha256": "6b749381a25b2d61f37a2c69f2f2b27ae19b426611052147e505adb3d0a974a2",
+    "destino": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=531477",
+    "paginas": 6,
+    "situacao": "texto extraído; fidelidade requer conferência",
+    "avisos": []
+  },
+  "recorte": [
+    1,
+    1
+  ],
+  "limitacoes": [
+    "Recorte parcial: dispositivos podem continuar fora do intervalo."
+  ],
+  "paginas_fora_do_recorte": [
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "geracoes": [
+    {
+      "etapa": "parte",
+      "secao": "Texto apresentado, primeira página",
+      "paginas": [
+        1
+      ],
+      "tokens_template": 919,
+      "resposta_incompleta": "# Explicação do PL 411/2024 – Estabelecimentos para Atendimento Integral a Idosos\n\nAbaixo está uma explicação simples e direta do texto da lei, com as informações essenciais preservadas.\n\n---\n\n## O que é este projeto de lei?\n\nO **PL 411/2024** (ID 380852) foi apresentado pelo Sr. Pepe Vargas (PT/PR). Ele estabelece normas básicas para o funcionamento de estabelecimentos que atendem idosos — como asilos, casas de repouso e clínicas geriátricas.\n\n---\n\n## Principais pontos do texto\n\n### Artigo 1º – Quem são os estabelecimentos\n- **Estabelecimentos** são aqueles que prestam atendimento integral institucional a idosos com **60 anos ou mais**.\n- Eles abrigam pessoas em caráter asilar (ou seja, para morar e ser cuidadas) sob regime de internato ou não.\n- O cuidado pode ser pago ou não, durante um período indeterminado.\n\n> **Exceção:** Não se consideram estabelecimentos do tipo “República de Idosos”, “Centros de Convivência”, “Centro-Dia” e “Casas Lares” com até 8 idosos. (Art. 1º, parágrafo único)\n\n### Artigo 2º – Consulta prévia à Autoridade Sanitária\nAntes de construir, reabilitar ou instalar qualquer estabelecimento para atender idosos, é obrigatório consultar a **Autoridade Sanitária** para obter um parecer sobre o local e o projeto.\n\n- O habite-se (o documento que autoriza o uso do local) só será emitido após aprovação da Autoridade Sanitária.\n- O alvará de funcionamento exige, no projeto, obrigatoriamente:\n  - A equipe técnica a ser contratada;\n  - A grade de atividades para os internos;\n  - O plano de viabilidade financeira da instituição.\n\n### Artigo 3º – Dever dos responsáveis\nOs responsáveis pelos estabelecimentos devem, ao ingresso do idoso na instituição:\n- Repassar cópia da **Lei** aos familiares;\n- Fixá-la no interior da instituição, em local visível e de fácil acesso a todos os internos.\n\n### Artigo 4º – Modalidades de cadastro\nOs estabelecimentos são cadastrados pela Autoridade Sanitária em três modalidades:\n\n| Modalidade | Idosos atendidos | Capacidade máxima |\n|------------|------------------|-------------------|\n| **I** | Idosos independentes | 40 internos |\n| **II** | Idosos independentes e idosos com dependência moderada | 22 internos |\n| **III** | Idosos com dependência total em pelo menos uma atividade de vida diária (AVD) | 20 internos |\n\n### Artigo 5º – Capacidades máximas\n- Modalidade I: **40** internos;\n- Modalidade II: **22** internos;\n- Modalidade III: **20** internos.\n\n### Artigo 6º – Requisitos físicos e espaciais\nAlém das normas municipais (Plano Diretor, Normas de Edificação, etc.), os estabelecimentos devem observar necessidades físico-espaciais mínimas, mantendo as proporções adequadas à modalidade de tratamento.\n\n---\n\n## Resumo das obrigações principais\n\n1. **Consulta prévia** à Autoridade Sanitária antes de construir ou instalar um estabelecimento.\n2. **Aprovação do projeto** pelo órgão sanitário (habite-se e alvará).\n3. **Repassar a Lei aos familiares** ao entrar o idoso na instituição.\n4. **Cadastrar em uma das três modalidades** conforme a necessidade dos internos.\n5. **Respeitar capacidades máximas**: 40 (Modalidade I), 22 (Modalidade II) ou 20 (Modalidade III).\n\n---\n\n## Limitações e observações\n\n- A lei não cobre estabelecimentos pequenos com até 8 idosos (exceção do Art. 1º, parágrafo único).\n- Os requisitos físicos são mínimos e",
+      "uso": {
+        "completion_tokens": 1024,
+        "prompt_tokens": 919,
+        "total_tokens": 1943,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        }
+      },
+      "tempos": {
+        "cache_n": 0,
+        "prompt_n": 919,
+        "prompt_ms": 17244.851,
+        "prompt_per_token_ms": 18.764799782372144,
+        "prompt_per_second": 53.29126937658087,
+        "predicted_n": 1024,
+        "predicted_ms": 136735.973,
+        "predicted_per_token_ms": 133.66175268817204,
+        "predicted_per_second": 7.481571802615542
+      },
+      "segundos": 154.0
+    }
+  ],
+  "explicacoes": [],
+  "situacao": "incompleta",
+  "modelo": "C:\\Users\\xxgab\\Downloads\\LFM2.5-2.6B.Q4_K_M.gguf",
+  "contexto": 4096,
+  "reserva_saida": 1024,
+  "margem": 8,
+  "falha": "Geração incompleta (length)",
+  "segundos": 154.047,
+  "partes_concluidas": 0,
+  "cobertura_extracao": "camada textual do recorte; fidelidade sujeita a revisão"
+}
